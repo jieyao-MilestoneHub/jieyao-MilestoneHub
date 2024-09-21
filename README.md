@@ -1,7 +1,5 @@
 # Hi, I'm Jiao 👋
 
-![Code Editing GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
 I’m a **Data Scientist** who loves learning about **Machine Learning** and **Engineering**. I'm always eager to learn new things and collaborate with others in the tech community.
 
 - 🌱 Currently exploring **LLM Engineering** and **Distributed Computing**.
