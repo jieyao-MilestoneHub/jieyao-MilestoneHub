@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jiao 👋
 
-<!--
-**jieyao-MilestoneHub/jieyao-MilestoneHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Data Scientist** who loves learning about **Machine Learning** and **Engineering**. I'm always eager to learn new things and collaborate with others in the tech community.
 
-Here are some ideas to get you started:
+- 🌱 Currently exploring **LLM Engineering** and **Distributed Computing**.
+- 🤝 Open to collaborating on **Data Science** and **AI** projects.
+- 💬 Let’s discuss anything about **data, AI, or engineering**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technologies I Use:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://aws.amazon.com/tw/)
+---
+
+## My GitHub Stats:
+
+![Jiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=light)
+
+---
+
+![Thanks for visiting!](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
