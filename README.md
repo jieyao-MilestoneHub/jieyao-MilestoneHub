@@ -21,7 +21,7 @@ I’m a **Data Scientist** who loves learning about **Machine Learning** and **E
 
 ## My GitHub Stats:
 
-![Jiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=light)
+![Jiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieyao-MilestoneHub&show_icons=true&theme=light)
 
 ---
 
