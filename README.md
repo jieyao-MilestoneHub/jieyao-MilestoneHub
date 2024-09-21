@@ -12,9 +12,11 @@ I’m a **Data Scientist** who loves learning about **Machine Learning** and **E
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/)
+![PyTorch Lightning](https://img.shields.io/badge/-PyTorch%20Lightning-792EE5?style=flat&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://aws.amazon.com/tw/)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
 ---
 
 ## My GitHub Stats:
