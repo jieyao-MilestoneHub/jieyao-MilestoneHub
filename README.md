@@ -1,5 +1,7 @@
 # Hi, I'm Jiao 👋
 
+![Code Editing GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
 I’m a **Data Scientist** who loves learning about **Machine Learning** and **Engineering**. I'm always eager to learn new things and collaborate with others in the tech community.
 
 - 🌱 Currently exploring **LLM Engineering** and **Distributed Computing**.
@@ -17,8 +19,6 @@ I’m a **Data Scientist** who loves learning about **Machine Learning** and **E
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
----
 
 ---
 
