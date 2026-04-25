@@ -2,7 +2,8 @@
 
 # Hi, I'm Joel 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=900&center=true&vCenter=true&width=900&lines=Happy+to+chat+about+agent+systems%2C+automation%2C+and+AI+application." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=900&center=true&vCenter=true&width=900&lines=Happy+to+chat+about+LLM+apps%2C+agent+systems%2C+automation%2C+and+AI+product+engineering." />
+
 </div>
 
 ---
@@ -16,55 +17,26 @@ My recent work focuses on **agent workflows**, **tool-using LLM applications**, 
 - 🛡️ Exploring how to make AI applications more **secure**, **structured**, and **reliable**
 - 🤝 Open to collaborating on **LLM application** and **AI engineering** projects
 
-💬 Happy to chat about **agent systems, automation, and AI application**.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jieyao-MilestoneHub&show_icons=true&theme=default&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jieyao-MilestoneHub&layout=compact&theme=default&hide_border=true" />
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jieyao-MilestoneHub&theme=default&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jieyao-MilestoneHub&theme=github-compact&hide_border=true" />
-
-</div>
-
 ---
 
 ## Published Packages
 
-### PyPI
+A few small tools I’ve published while exploring **agent scaffolding**, **MCP server development**, and **AI-assisted development workflows**.
 
-- https://pypi.org/project/langgraph-forge/  
-- https://pypi.org/project/mcp-forge-cli/  
-- https://pypi.org/project/mcp-forge-core/  
-
-### npm
-
-- https://www.npmjs.com/package/@hey-echodev/cli  
+| Package | Ecosystem | Contribution Area | Purpose |
+|---|---|---|---|
+| [`langgraph-forge`](https://pypi.org/project/langgraph-forge/) | PyPI | LangGraph agent scaffolding | A starter toolkit for setting up runnable LangGraph agent projects with common providers, patterns, and deployment options. |
+| [`mcp-forge-cli`](https://pypi.org/project/mcp-forge-cli/) | PyPI | MCP project generator | A CLI for bootstrapping structured MCP server projects without hand-creating the same project layout each time. |
+| [`mcp-forge-core`](https://pypi.org/project/mcp-forge-core/) | PyPI | MCP server framework | A lightweight core layer for building MCP servers with cleaner interfaces and swappable provider implementations. |
+| [`@hey-echodev/cli`](https://www.npmjs.com/package/@hey-echodev/cli) | npm | AI / developer workflow CLI | A terminal-first tool for keeping useful project context around AI-assisted development workflows. |
 
 ---
 
 ## Selected Work
 
-### Qualcomm Hackathon Champion
-
-- https://github.com/leoliu5550/AI-Filing-System  
+| Project | Recognition | What it does |
+|---|---|---|
+| [`AI-Filing-System`](https://github.com/leoliu5550/AI-Filing-System) | 2025 Qualcomm Hackathon Champion | An AI-powered file organization system that analyzes and categorizes documents automatically. |
 
 ---
 
