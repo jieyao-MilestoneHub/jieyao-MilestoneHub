@@ -2,7 +2,7 @@
 
 # Hi, I'm Joel 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=900&center=true&vCenter=true&width=900&lines=Happy+to+chat+about+LLM+apps%2C+agent+systems%2C+automation%2C+and+AI+product+engineering." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=900&center=true&vCenter=true&width=900&lines=Happy+to+chat+about agent+systems%2C+LLM%2C+and+AI+application." />
 
 </div>
 
