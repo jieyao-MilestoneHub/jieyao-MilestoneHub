@@ -29,6 +29,7 @@ A few small tools I’ve published while exploring **agent scaffolding**, **MCP 
 | [`mcp-forge-cli`](https://pypi.org/project/mcp-forge-cli/) | PyPI | MCP project generator | A CLI for bootstrapping structured MCP server projects without hand-creating the same project layout each time. |
 | [`mcp-forge-core`](https://pypi.org/project/mcp-forge-core/) | PyPI | MCP server framework | A lightweight core layer for building MCP servers with cleaner interfaces and swappable provider implementations. |
 | [`@hey-echodev/cli`](https://www.npmjs.com/package/@hey-echodev/cli) | npm | AI / developer workflow CLI | A terminal-first tool for keeping useful project context around AI-assisted development workflows. |
+| [`redactkit`]([https://www.npmjs.com/package/@hey-echodev/cli](https://pypi.org/project/redactkit/)) | PyPI | Python / Development Toolkit | Production-hardened Python redaction for structured logs, LLM agent payloads, and AWS-signed URLs. Zero deps. |
 
 ---
 
