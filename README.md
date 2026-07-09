@@ -8,9 +8,11 @@
 
 ---
 
-I’m Joel — an **LLM Application Engineer** who enjoys turning AI capabilities into real, usable systems.
+I’m Joel, an **LLM Application Engineer** who enjoys turning AI capabilities into real, usable systems.
 
-My recent work focuses on **agent workflows**, **tool-using LLM applications**, **workflow automation**, and **secure deployment patterns**. I’m especially interested in how to make AI systems not only powerful, but also practical, auditable, and production-friendly.
+My recent work focuses on **agent workflows**, **tool-using LLM applications**, **workflow automation**, and **secure deployment patterns**. I’m especially interested in making AI systems not only powerful, but also practical, auditable, and production-friendly.
+
+
 
 - 🌱 Currently building around **AI agents**, **MCP-style tool orchestration**, and **LLM workflows**
 - 🛠️ Interested in **automation**, **developer tooling**, and **cloud-based AI systems**
